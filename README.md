@@ -11,6 +11,6 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=Armxyz1&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Armxyz1&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 ## Random Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=merko)
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 ## Visitor Attendance!
 ![Visitor Count](https://profile-counter.glitch.me/Armxyz1/count.svg)
