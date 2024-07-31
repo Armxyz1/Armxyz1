@@ -9,4 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 😄 Pronouns: He/Him
 
-[![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armxyz1&show_icons=true&theme=chartreuse-dark&rank_icon=github)](https://github.com/Armxyz1/github-readme-stats)
+[![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armxyz1&show_icons=true&theme=chartreuse-dark&rank_icon=github)](https://github.com/Armxyz1/github-readme-stats)  
+
+A random Joke:  
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=merko)
