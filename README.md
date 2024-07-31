@@ -1,5 +1,5 @@
 ## Hello World! 👋
-
+[![ProfileViews](https://komarev.com/ghpvc/?username=Armxyz1&color=green&style=flat)](https://komarev.com/ghpvc/?username=Armxyz1)
 <!--
 **Armxyz1/Armxyz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
