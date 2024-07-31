@@ -1,10 +1,4 @@
 # Hello World! 👋
-[![ProfileViews](https://komarev.com/ghpvc/?username=Armxyz1&color=green&style=flat)](https://komarev.com/ghpvc/?username=Armxyz1)
-<!--
-**Armxyz1/Armxyz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 - 🔭 I’m currently an undergraduate resracher at Indian Institute of Science, Bengaluru
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 😄 Pronouns: He/Him
@@ -13,5 +7,5 @@ Here are some ideas to get you started: -->
 
 ## A Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=merko)
-
+## Visitor Attendance!
 ![Visitor Count](https://profile-counter.glitch.me/Armxyz1/count.svg)
