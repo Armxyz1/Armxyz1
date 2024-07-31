@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Armaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armxyz1&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark&rank_icon=github)](https://github.com/Armxyz1/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armxyz1&hide_progress=true&theme=chartreuse-dark)
-
