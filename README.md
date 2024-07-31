@@ -7,5 +7,6 @@
 
 **Random Joke**  
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=merko)
+
 ## Visitor Attendance!
 ![Visitor Count](https://profile-counter.glitch.me/Armxyz1/count.svg)
