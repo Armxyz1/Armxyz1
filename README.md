@@ -13,7 +13,7 @@
 
 ## Random Joke
 <p align="center">
-<img height = 500px width = 100% src="https://readme-jokes.vercel.app/api?theme=merko" alt="README Jokes">
+<img width = 100% src="https://readme-jokes.vercel.app/api?theme=merko" alt="README Jokes">
 </p>
 
 ## Visitor Attendance!
