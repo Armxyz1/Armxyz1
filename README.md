@@ -1,4 +1,4 @@
-# Hello World, Armaan here! 👋
+# Hello World! 👋
 ![banner](./github-header-image.png "banner")
 - 🔭 I’m currently an undergraduate researcher in Maths and Computing
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
