@@ -1,5 +1,5 @@
 # Hello World! 👋
-![banner](./github-header-image.png "banner")
+![[Click to get the original picture](https://octodex.github.com/securityknightocat/)](./github-header-image.png "banner")
 - 🔭 I’m currently an undergraduate researcher in Maths and Computing
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 😄 Pronouns: He/Him
