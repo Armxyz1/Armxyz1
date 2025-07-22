@@ -15,6 +15,3 @@
 <p align="center">
 <img height = 200 px width = 100% src="https://readme-jokes.vercel.app/api?theme=merko" alt="README Jokes">
 </p>
-
-## Visitor Attendance!
-![Visitor Count](https://profile-counter.glitch.me/Armxyz1/count.svg)
