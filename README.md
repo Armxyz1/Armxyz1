@@ -1,9 +1,10 @@
 # Hello World! 👋
 ![https://octodex.github.com/securityknightocat/](./github-header-image.png "banner")
-🎓 Final-year **B.Tech student in Mathematics and Computing** at **IISc Bangalore**  
+🎓 **B.Tech in Mathematics and Computing** graduate from **IISc Bangalore**  
 🔭 Specializing in **Computer Vision**, **Machine Learning**, and **Artificial Intelligence**  
 
 💡 Experienced in developing and deploying models for:
+- **Monsoon Onset Prediction**
 - **Bias detection in facial recognition**
 - **Unsupervised anomaly detection for semiconductors**
 - **Sports analytics and computer vision pipelines**
@@ -15,12 +16,6 @@
 💼 **LinkedIn:** [linkedin.com/in/armaank-ai](https://linkedin.com/in/armaank-ai)  
 😄 **Pronouns:** He/Him
 
-## Reach out
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/armaank-ai/ "LinkedIn")    &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>](mailto:armaankpaul@gmail.com "GMail")  &nbsp; [<img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" width="5%"/>](mailto:armaank@iisc.ac.in "Outlook")
-
- ## Stats for nerds
- <p align="center"><a href="https://github.com/Armxyz1/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api?username=Armxyz1&show_icons=true&theme=chartreuse-dark&rank_icon=github"></a>
- </p>
 
 ## Random Joke
 <p align="center">
