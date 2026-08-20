@@ -1,6 +1,7 @@
 # Hello World! 👋
 ![https://octodex.github.com/securityknightocat/](./github-header-image.png "banner")
-🎓 **B.Tech in Mathematics and Computing** graduate from **IISc Bangalore**  
+🎓 **MSc in Computer Science** student at **ETH Zurich**  
+🎓 **B.Tech in Mathematics and Computing** graduate from **IISc Bengaluru**  
 🔭 Specializing in **Computer Vision**, **Machine Learning**, and **Artificial Intelligence**  
 
 💡 Experienced in developing and deploying models for:
